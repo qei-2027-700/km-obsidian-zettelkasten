@@ -1,1 +1,7 @@
 .obsidian/
+
+node_modules/
+
+# VitePress build output
+.vitepress/dist
+.vitepress/cache

@@ -1,0 +1,16 @@
+{
+  "name": "km-obsidian-zettelkasten",
+  "version": "1.0.0",
+  "description": "Obsidian vault published as a website",
+  "type": "module",
+  "packageManager": "pnpm@9.0.0",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
